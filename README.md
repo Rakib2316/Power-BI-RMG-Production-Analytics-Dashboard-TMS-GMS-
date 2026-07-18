@@ -138,27 +138,6 @@ Developed an interactive **Power BI dashboard** to analyze **Textile Manufacturi
 
 ---
 
-## 📁 Repository Structure
-
-```
-RMG-Production-Analytics/
-│
-├── Dashboard/
-│   └── RMG Production Analytics.pbix
-│
-├── Dataset/
-│   ├── TMS Dataset.xlsx
-│   ├── GMS Dataset.xlsx
-│
-├── Images/
-│   ├── TMS_Dashboard.png
-│   └── GMS_Dashboard.png
-│
-└── README.md
-```
-
----
-
 ## 🚀 Skills Demonstrated
 
 - Power BI
